@@ -30,7 +30,6 @@ function App() {
       }
     );
   };
-  console.log("Hi", currentPage);
   const cardStyle = {
     width: "18rem",
     marginRight: "3rem",
